@@ -4,8 +4,10 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   flutter_acrylic
+  media_kit_video
   screen_retriever_linux
   system_theme
+  volume_controller
   window_manager
 )
 

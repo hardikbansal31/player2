@@ -10,18 +10,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^6.0.0
   fluent_ui: ^4.13.0
   system_theme: ^3.2.0
   flutter_acrylic: ^1.1.4
   window_manager: ^0.5.1
   file_picker: ^10.3.10
   flutter_riverpod: ^2.5.1
+  media_kit: ^1.1.10
+  media_kit_video: ^1.2.4
+  media_kit_libs_windows_video: ^1.0.10
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
 
 # The following section is specific to Flutter packages.
 flutter:
